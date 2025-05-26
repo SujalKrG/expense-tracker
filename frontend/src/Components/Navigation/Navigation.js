@@ -63,14 +63,14 @@ const NavStyled = styled.nav`
             object-fit: cover;
             background: #FCF6F9;
             border: 2px solid #FFFFFF;
-            padding: .1rem;
+            padding: .2rem;
             box-shadow: 0px 1px 17px rgba(0, 0, 0, 0.06);
         }
         h2{
             color: rgba(34, 34, 96, 1);
         }
         p{
-            color: rgba(34, 34, 96, .6);
+            color: rgba(34, 34, 96, 0.6);
         }
     }
 
