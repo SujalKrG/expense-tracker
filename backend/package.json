@@ -5,7 +5,7 @@
   "scripts": {
     "start": "nodemon app.js"
   },
-  "author": "",
+  "author": "Sujal",
   "license": "ISC",
   "description": "",
   "dependencies": {

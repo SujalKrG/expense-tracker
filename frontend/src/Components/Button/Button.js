@@ -17,7 +17,7 @@ function Button({name, icon, onClick, bg, bPad, color, bRad}){
     )
 }
 
-const ButtonStyled = styled.div`
+const ButtonStyled = styled.button`
     outline: none;
     border: none;
     font-family: inherit;
